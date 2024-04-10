@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cda8c447.css",
+    "main.js": "/static/js/main.6cb3c895.js",
+    "static/media/HomeUserIcon.png": "/static/media/HomeUserIcon.7652fd334922e6c90811.png",
+    "static/media/HomeAdminIcon.jpg": "/static/media/HomeAdminIcon.98820246cf210fe4c32d.jpg",
+    "static/media/HomeReceptionIcon.webp": "/static/media/HomeReceptionIcon.09b2eca0d23d910137a9.webp",
+    "static/media/menu_icon.png": "/static/media/menu_icon.6505b68e71651f1268bf.png",
+    "static/media/shopping_cart_icon.png": "/static/media/shopping_cart_icon.2dc963db37d5661b3a51.png",
+    "static/media/settings_icon.png": "/static/media/settings_icon.203ea2145a8c2b232879.png",
+    "index.html": "/index.html",
+    "static/media/icon_password.svg": "/static/media/icon_password.07ebf46f63a51b78aaeb.svg",
+    "static/media/icon_user.svg": "/static/media/icon_user.43d970e65d481f27c269.svg",
+    "main.cda8c447.css.map": "/static/css/main.cda8c447.css.map",
+    "main.6cb3c895.js.map": "/static/js/main.6cb3c895.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cda8c447.css",
+    "static/js/main.6cb3c895.js"
+  ]
+}
